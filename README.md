@@ -2,7 +2,7 @@
 
 
 # Project Source Codes:
-* [Hangman_Game](https://github.com/ma4ever/StanCode-Project/blob/main/StanCode_Project/hangman_game/hangman.py)
+* [Hangman Game](https://github.com/ma4ever/StanCode-Project/blob/main/StanCode_Project/hangman_game/hangman.py)
   * python semantics & syntax
 * [Photoshop](https://github.com/ma4ever/StanCode-Project/blob/main/StanCode_Project/photoshop/stanCodoshop.py)
   * image processing
